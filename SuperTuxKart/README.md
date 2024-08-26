@@ -1,5 +1,4 @@
-# Deep_Learning_Projects
- Deep Learning Projects
+# SuperTuxKart
 
 The final project is open-ended. The task is to program a SuperTuxKart ice-hockey player.
 
